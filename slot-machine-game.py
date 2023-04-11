@@ -140,5 +140,4 @@ def main():
 
     print(f"you left with ${balance}")
 
-
 main()
